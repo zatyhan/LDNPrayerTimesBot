@@ -1,6 +1,0 @@
-access_token="2805306936-az1qhANrYX3ZrK25WrAAcajbi4j436L61YImUWh"
-access_token_secret="Gpo4rRl97doi0PIz4b2hYsPtPrhBmRhesNpl6FrFLsCK7"
-API_key= "vn0aCwUX0n31Y4GYQWbQf7rGs"
-API_secret_key= "vn0aCwUX0n31Y4GYQWbQf7rGs"
-bearer_token="AAAAAAAAAAAAAAAAAAAAAMzHSwEAAAAA6x%2B1eIQzJH4izRMADx%2BMHrNfE94%3DynCHKdRV4xBBbSN7z6RoUxMdpowCs37bqkXFmzCipRh2d5823p"
-
